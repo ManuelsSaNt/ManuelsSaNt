@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manuel Samaniego
 - 👀 I’m interested in backend and desktop application development
-- 🌱 I’m currently learning React and i want learn Django
+- 🌱 I’m currently learning Java SpringBoot and Angular
 
 
 <!---
