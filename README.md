@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **more of Angular, React, and more correct use of TypeScript**
+- 🌱 I’m currently learning **Golang, and Postgresql i have interess in Svelte**
 
 - 👨‍💻 All of my projects are available at [still in work :(](still in work :()
 
