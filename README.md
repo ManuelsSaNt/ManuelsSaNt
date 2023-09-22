@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang, and Postgresql i have interess in Svelte**
 
-- 👨‍💻 All of my projects are available at [still in work :(](still in work :()
+- 👨‍💻 Some of my projects are available at https://manuelsamaniego.vercel.app/
 
 - 💬 Ask me about **React, Angular, ExpessJs, NodeJs, Java**
 
