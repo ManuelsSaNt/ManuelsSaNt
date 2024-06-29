@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuelssant&label=Profile%20views&color=0e75b6&style=flat" alt="manuelssant" /> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my marketing agency LABSTUDIOMEDIA.com**
 
-- 🌱 I’m currently learning **Golang, and Postgresql i have interess in Svelte**
+- 🌱 I’m currently learning **Go, and Postgresql i have interess in Kotlin**
 
 - 👨‍💻 Some of my projects are available at https://manuelsamaniego.vercel.app/
 
-- 💬 Ask me about **React, Angular, ExpessJs, NodeJs, Java**
+- 💬 Ask me about **Angular, Node, Go**
 
 - 📫 How to reach me **samaniegoserranom@gmail.com**
 
